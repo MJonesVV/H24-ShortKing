@@ -9,3 +9,5 @@ Verkefni 5
 <br><b>Klukkan 14:32</b> Hræddi Ingimar okkur með því að segja að eitthvað væri "Tricky" þar sem ef eitthvað væri þannig myndum við þurfa að eyða auka tíma í það í stað þess að halda áfram með verkefnið en þess var leyst léttilega þar sem þetta var ekki "Tricky" víst hann leysti það á 10 sek.
 <br><b>Klukkan 14:38</b> var Ingimar orðin smá pirraður á því að festa saman mótorinn og hendina þar sem altaf þegar hann festi þá saman þá losnaði það þegar hann tosaði smá en Marijona náði því strax án þess að lenda í einhver vandamál.
 <br><b>Klukkan 14:42</b> náði Ingimar að festa hendina og mótorinn saman en fattaði síðan að hann þarf líka að festa auka hlut fyrir hendurnar saman við rör sem Valdimar hjálpaði smá með þar sem þeir þurftu að taka rórin úr vélmenninu til þess að geta borað í hann og sett skrúfu í gegn til þess að festa það.
+<br><b>Klukkan 14:49</b> þá byrjaði Valdimar að tengja saman og kóða til þess að prófa og sá hvort mótorinn virkar.
+<br><b>Klukkan 15:08</b> fyrsta höndin virkar
