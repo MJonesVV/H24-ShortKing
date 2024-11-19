@@ -10,4 +10,7 @@ Verkefni 5
 <br><b>Klukkan 14:38</b> var Ingimar orðin smá pirraður á því að festa saman mótorinn og hendina þar sem altaf þegar hann festi þá saman þá losnaði það þegar hann tosaði smá en Marijona náði því strax án þess að lenda í einhver vandamál.
 <br><b>Klukkan 14:42</b> náði Ingimar að festa hendina og mótorinn saman en fattaði síðan að hann þarf líka að festa auka hlut fyrir hendurnar saman við rör sem Valdimar hjálpaði smá með þar sem þeir þurftu að taka rórin úr vélmenninu til þess að geta borað í hann og sett skrúfu í gegn til þess að festa það.
 <br><b>Klukkan 14:49</b> þá byrjaði Valdimar að tengja saman og kóða til þess að prófa og sá hvort mótorinn virkar.
-<br><b>Klukkan 15:08</b> fyrsta höndin virkar
+<br><b>Klukkan 15:08</b> fyrsta höndin virkar eftir að prófa og stija hana saman þá virkar höndin en hin höndin virkar ekki og við erum að prófa aðra.
+<br><b>Klukkan 15:38</b> FJORÐI mótorinn virkaði... við erum búin að vera að laga og prófa í 30 mín en ekkert hefur virkað þar til nú.
+<br><b>Klukkan 15:48</b> Ingimar er að festa hendina við rörið til þess að hafa þetta tilbúið en höndin er ekki nógu stór til þess að festa hana svo Ingimar þarf að .
+<br><b>Klukkan 15:54</b> Við kláruðum hendurnar og byrjum líklega næst á að byrja á Red-node og venjulegan kóða.
