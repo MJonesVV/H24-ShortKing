@@ -1,25 +1,59 @@
-# VESM2V-05CU
-Verkefni 5
-19.11.2024
+# VESM2V-05CU  
+## Verkefni 5  
+**Dagsetning:** 19.11.2024  
 
-í dag byrjuðum við á hugmynda vinnu þar sem Ingimar stakk upp á hrekkjavöku hugmynd þar sem hann myndi bregða sá sem er hjá honum. Allir stukku upp á aðrar hugmyndir en við enduðum á hrekkjavöku hugmyndinni.
-<br>Ingimar og Marijona eru aðalega að vinna með að setja saman allt sem við þurfum á vélmennið á meðan Valdimar er að annað hvort að sækja auka hluti eins og rör eða koma með hugmyndir eða skrifa í dagbókina (README) [Þessi dagsetning var skrifað af honum].
+### Lýsing á deginum  
+Í dag byrjuðum við á hugmynda- og skipulagsvinnu. Ingimar stakk upp á hugmynd tengda hrekkjavöku, þar sem hann myndi bregða þeim sem væri hjá honum. Þrátt fyrir aðra hugmyndir hafi komið upp, var ákveðið að fara með þessa hugmynd.  
 
-<br><b>Klukkan 14:29</b> voru Ingimar og Marijona að setja saman hendurnar og Valimar að skrifa hvað var að gerast. 
-<br><b>Klukkan 14:32</b> Hræddi Ingimar okkur með því að segja að eitthvað væri "Tricky" þar sem ef eitthvað væri þannig myndum við þurfa að eyða auka tíma í það í stað þess að halda áfram með verkefnið en þess var leyst léttilega þar sem þetta var ekki "Tricky" víst hann leysti það á 10 sek.
-<br><b>Klukkan 14:38</b> var Ingimar orðin smá pirraður á því að festa saman mótorinn og hendina þar sem altaf þegar hann festi þá saman þá losnaði það þegar hann tosaði smá en Marijona náði því strax án þess að lenda í einhver vandamál.
-<br><b>Klukkan 14:42</b> náði Ingimar að festa hendina og mótorinn saman en fattaði síðan að hann þarf líka að festa auka hlut fyrir hendurnar saman við rör sem Valdimar hjálpaði smá með þar sem þeir þurftu að taka rórin úr vélmenninu til þess að geta borað í hann og sett skrúfu í gegn til þess að festa það.
-<br><b>Klukkan 14:49</b> þá byrjaði Valdimar að tengja saman og kóða til þess að prófa og sá hvort mótorinn virkar.
-<br><b>Klukkan 15:08</b> fyrsta höndin virkar eftir að prófa og stija hana saman þá virkar höndin en hin höndin virkar ekki og við erum að prófa aðra.
-<br><b>Klukkan 15:38</b> FJORÐI mótorinn virkaði... við erum búin að vera að laga og prófa í 30 mín en ekkert hefur virkað þar til nú.
-<br><b>Klukkan 15:48</b> Ingimar er að festa hendina við rörið til þess að hafa þetta tilbúið en höndin er ekki nógu stór til þess að festa hana svo Ingimar þarf að .
-<br><b>Klukkan 15:54</b> Við kláruðum hendurnar og byrjum líklega næst á að byrja á Red-node og venjulegan kóða.
-<br>
-<br>
-__________________________________________________________________________________________________________________________________________________________________________________________
-21.11.2024
+- **Ingimar og Marijona** unnu að því að setja saman allt sem þarf fyrir vélmennið.  
+- **Valdimar** annaðist söfnun á aukahlutum eins og rörum, kom með hugmyndir og skrifaði í dagbókina (*README*).  
 
-<br><b>Klukkan 08:38</b> byrjuðum við að gera okkar eigin verkefni. Ingimar fór í Blender til þess að búa til kórónu fyrir beinagrindina okkar. Valdimar Fór að finna núll stöðurnar fyrir hendurnar. Marijona fór að tala um hugmyndirnar okkar til þess að bæta þær en meir og til þess að vera alveg viss um hvað hann ætlaði að gera og hann fór að fikta í 2 ensors.
-<br><b>Klukkan 08:50</b> Losnaði hægri handar mótorinn ein meigin en heldur sér enn (Þetta lét Valda þurfa að byrja upp á nýtt að finna núll stöðurnar).
-<br><b>Klukkan 09:20</b> Fórum við upp í framtíðar stofuna til þess að geta 3d prentað kóronuna sem var gerð.
-<br><b>Klukkan 09:38</b> Kláraði Valdi að finna núll stöðurnar á höndunum.
+---
+
+### Tímalína  
+- **14:29**:  
+   Ingimar og Marijona settu saman hendurnar á vélmenninu á meðan Valdimar skráði hvað var í gangi.  
+
+- **14:32**:  
+   Ingimar hræddi hópinn með því að segja að eitthvað væri "tricky". Hann leysti þó vandamálið á 10 sekúndum.  
+
+- **14:38**:  
+   Ingimar reyndi að festa saman mótorinn og hendina, en það losnaði ítrekað. Marijona leysti þetta án vandamála.  
+
+- **14:42**:  
+   Ingimar tókst að festa mótorinn og hendina saman en þurfti að bæta við aukahlut sem tengdist rörum. Valdimar aðstoðaði við að taka rörið úr vélmenninu, bora í það og festa með skrúfu.  
+
+- **14:49**:  
+   Valdimar hóf tengingar og kóðun til að prófa hvort mótorinn virkaði.  
+
+- **15:08**:  
+   Fyrsta höndin virkaði eftir prófanir, en önnur höndin bilaði. Hópurinn reyndi að laga hana.  
+
+- **15:38**:  
+   **Fjórði mótorinn** virkaði loks eftir 30 mínútur af prófunum og lagfæringum.  
+
+- **15:48**:  
+   Ingimar festi hendina við rörið, en hún reyndist of lítil til að festast almennilega.  
+
+- **15:54**:  
+   Hendurnar voru kláraðar. Næstu skref eru að vinna með **Red-node** og hefðbundinn kóða.  
+
+---
+
+## Dagsetning: 21.11.2024  
+
+### Tímalína  
+- **08:38**:  
+   Hópurinn byrjaði á eigin verkefnum:  
+   - **Ingimar** vann í *Blender* við að búa til kórónu fyrir beinagrindina.  
+   - **Valdimar** fór að finna núllstöður fyrir hendurnar.  
+   - **Marijona** bætti hugmyndir hópsins og fiktaði í tveimur skynjurum.  
+
+- **08:50**:  
+   Hægri handar mótorinn losnaði á annarri hliðinni, sem þýddi að Valdimar þurfti að finna núllstöðurnar aftur.  
+
+- **09:20**:  
+   Hópurinn fór upp í framtíðarstofuna til að 3D-prenta kórónuna sem Ingimar hafði hannað.  
+
+- **09:38**:  
+   Valdimar kláraði að stilla núllstöður fyrir hendurnar.  
