@@ -71,3 +71,6 @@
 
 - **10:50**
    Ingimar fer að gera Rasberrypi á meðan Valdimar fer og klárar að finna núllstöðu mótorsins.
+
+- **11:25**
+   Valdimar bað um hjálp til þess að laga hendina sem virkar núna.
