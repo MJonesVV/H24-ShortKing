@@ -57,3 +57,6 @@
 
 - **09:38**:  
    Valdimar kláraði að stilla núllstöður fyrir hendurnar.  
+
+-**10:04**
+   Ingimar ákvað að líma mótorinn við hylkið hans en Valdimar Tók eftir því að mótorinn var ekki lengur að hlusta á hann sem leiðir að því að mótorinn er líklega skemmdur.
