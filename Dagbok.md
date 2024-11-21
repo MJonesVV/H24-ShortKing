@@ -33,8 +33,10 @@
    **Fjórði mótorinn** virkaði loks eftir 30 mínútur af prófunum og lagfæringum.  
 
 - **15:48**:  
-   Ingimar festi hendina við rörið, en hún reyndist of lítil til að festast almennilega.  
+   Ingimar festi hendina við rörið, en hún reyndist of lítil til að festast almennilega.
 
+- **15:23**
+   Hægri höndin er en ekki virk
 - **15:54**:  
    Hendurnar voru kláraðar. Næstu skref eru að vinna með **Red-node** og hefðbundinn kóða.  
 
