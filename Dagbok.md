@@ -14,3 +14,12 @@ Verkefni 5
 <br><b>Klukkan 15:38</b> FJORÐI mótorinn virkaði... við erum búin að vera að laga og prófa í 30 mín en ekkert hefur virkað þar til nú.
 <br><b>Klukkan 15:48</b> Ingimar er að festa hendina við rörið til þess að hafa þetta tilbúið en höndin er ekki nógu stór til þess að festa hana svo Ingimar þarf að .
 <br><b>Klukkan 15:54</b> Við kláruðum hendurnar og byrjum líklega næst á að byrja á Red-node og venjulegan kóða.
+<br>
+<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+21.11.2024
+
+<br><b>Klukkan 08:38</b> byrjuðum við að gera okkar eigin verkefni. Ingimar fór í Blender til þess að búa til kórónu fyrir beinagrindina okkar. Valdimar Fór að finna núll stöðurnar fyrir hendurnar. Marijona fór að tala um hugmyndirnar okkar til þess að bæta þær en meir og til þess að vera alveg viss um hvað hann ætlaði að gera og hann fór að fikta í 2 ensors.
+<br><b>Klukkan 08:50</b> Losnaði hægri handar mótorinn ein meigin en heldur sér enn (Þetta lét Valda þurfa að byrja upp á nýtt að finna núll stöðurnar).
+<br><b>Klukkan 09:20</b> Fórum við upp í framtíðar stofuna til þess að geta 3d prentað kóronuna sem var gerð.
+<br><b>Klukkan 09:38</b> Kláraði Valdi að finna núll stöðurnar á höndunum.
