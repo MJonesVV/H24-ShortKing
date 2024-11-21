@@ -60,3 +60,12 @@
 
 -**10:04**
    Ingimar ákvað að líma mótorinn við hylkið hans en Valdimar Tók eftir því að mótorinn var ekki lengur að hlusta á hann sem leiðir að því að mótorinn er líklega skemmdur.
+
+-**10:09**
+   Við tókum nýjan mótor... við vonum að hann virkar. **ÞETTA ER FIMMTI MÓTORINN OKKAR**.
+
+-**10:15**
+   Mótorinn virkar og Validmar þarf að finna núllstöðu mótorinn aftur.
+
+-**10:50**
+   Ingimar fer að gera Rasberrypi á meðan Valdimar fer og klárar að finna núllstöðu mótorsins.
