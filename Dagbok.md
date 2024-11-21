@@ -16,7 +16,7 @@ Verkefni 5
 <br><b>Klukkan 15:54</b> Við kláruðum hendurnar og byrjum líklega næst á að byrja á Red-node og venjulegan kóða.
 <br>
 <br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________________________________________________________
 21.11.2024
 
 <br><b>Klukkan 08:38</b> byrjuðum við að gera okkar eigin verkefni. Ingimar fór í Blender til þess að búa til kórónu fyrir beinagrindina okkar. Valdimar Fór að finna núll stöðurnar fyrir hendurnar. Marijona fór að tala um hugmyndirnar okkar til þess að bæta þær en meir og til þess að vera alveg viss um hvað hann ætlaði að gera og hann fór að fikta í 2 ensors.
