@@ -13,3 +13,14 @@
 
 ##### Sensor esp
 
+
+
+
+### MQTT
+>Sensor esp sendir skilaboð til Vélmenni esp með MQTT, þessi skilaboð er sett í JSON fyrir sendingu  
+>Dæmi um hvernig skilaboðinn eru  
+>*{'scared': False, 'scare': True, 'in_vision': True, 'sensor': 'LMR'}*  
+>Scared lykill segir hvort vélmennið á að vera hrædd
+>Scare lykill segir hvort vélmennið á að hræða eitthvern
+>In_vision segir hvort sensor eru að detecta eitthvern
+>Sensor lykill segir hvaða sensors eru að detecta eitthvern
