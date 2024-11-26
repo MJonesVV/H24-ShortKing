@@ -6,7 +6,7 @@
 48 = Lóðrétt servo hreyfing  ()  
 47 = Kjálki servo  (MIN=93, MAX=140)  
 45 = Lárétt servo hreyfing  (MIN=0, MAX=185)  
-40 = Hægri hönd servo  (MIN=13, MAX=25)  
+40 = Hægri hönd servo  (MIN=12, MAX=25)  ***BREYTIST
 39 = Vinstri hönd servo  (MIN=180, MAX=130)  
 38 = Speaker    
 [35, 36, 37] = Augu    
