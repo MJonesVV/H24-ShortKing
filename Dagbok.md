@@ -93,3 +93,6 @@
 
 - **14:56**
    Hægri höndin skemmdist aftur aftur Valdimar þarf að laga hana aftur :(.
+
+- **15:06**
+   Valdimar lagaði hendina.
