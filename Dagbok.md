@@ -90,3 +90,6 @@
 
 - **14:37**
    Valdimar og Ingimar eru byrjaðir að senda gögn á milli hvor annara.
+
+- **14:56**
+   Hægri höndin skemmdist aftur aftur Valdimar þarf að laga hana aftur :(.
