@@ -38,7 +38,7 @@
 - **15:23**
    Hægri höndin er en ekki virk
 - **15:54**:  
-   Hendurnar voru kláraðar. Næstu skref eru að vinna með **Red-node** og hefðbundinn kóða.  
+   Hendurnar voru kláraðar. Næstu skref eru að vinna með **Node-Red** og hefðbundinn kóða.  
 
 ---
 
@@ -74,3 +74,19 @@
 
 - **11:25**
    Valdimar bað um hjálp til þess að laga hendina sem virkar núna.
+
+---
+## Dagsetning: 26.11.2024  
+
+### Tímalína  
+- **13:45**
+   Ingimar kláraði að setja upp Rasberry Pi og Marijona er í vanda með sensorana.
+   
+- **14:12**
+   Valdimar sýndi Ingimari hvernig á að flokka hluti í Node-Red dashboard og er búin að nefna nokkrum sinnum að nota timer fyrir sensorana varðandi þess að við viljum að ef einhver kemur of nálægt og byrtist alt í einu þá á hann að vera hræddur en ekki þegar hann er búin að sjá hann. Þó að við þurfum ekki að laga það sem er nú þegar komið þar sem ef hann á að vera hræddur þá er skrifað í kóðanum að hann er hræddur svo engin annar kóði fer í gang.
+
+- **14:28**
+   Valdimar loksins sér fyrir sér hvernig á að kóða án þess að nota timer.
+
+- **14:37**
+   Valdimar og Ingimar eru byrjaðir að senda gögn á milli hvor annara.
