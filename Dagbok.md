@@ -96,3 +96,6 @@
 
 - **15:06**
    Valdimar lagaði hendina.
+
+- **15:22**
+   Ingimar er byrjaður að bora til þess að festa plast fyrir sensorana á meðan Valdimar er að leita af gervi fingur síns.
