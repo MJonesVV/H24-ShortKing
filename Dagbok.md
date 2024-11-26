@@ -99,3 +99,12 @@
 
 - **15:22**
    Ingimar er byrjaður að bora til þess að festa plast fyrir sensorana á meðan Valdimar er að leita af gervi fingur síns.
+
+- **15:50**
+   Ingimar kláraði að bora plastið við plötuna og Marijonas kláraði að tengja snúrunar við breadboardið.
+
+- **15:51**
+   Vandamál kom þegar Marijonas prófaði kóðan.
+
+- **15:54**
+   Marijonas lagaði snúru tengingarnar.
