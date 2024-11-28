@@ -114,8 +114,21 @@
 
 ## Tímalína
 - **08:30**
-   Allir byrjuðu að gera það sem þeir ákvöðu að gera, Valdimar byrjaði að kóða með gögnin sem hann fær, Ingimar fór að 3d prenta eitthvað.
+   Allir byrjuðu að gera það sem þeir ákvöðu að gera, Valdimar byrjaði að kóða með gögnin sem hann fær, Ingimar fór að 3d prenta         eitthvað.
+  
+- **8.56**
+  Við fundum út að við áttum að gera animated props, sem við vissum ekki hvað var.
 
+- **9.12**
+  Ingimar kom með hugmindina að gera kistu og þegar það er kveigt á kistuni horfir beinagrindin á hana og ingimar birjaði að 3D modela það á Blender 4.0.
+
+- **9.45**
+  Ingimar lenti í vanadamáli hverning maður setur kistuna saman og Marijonas fann leið sem midndi virka
+
+- **9.53**
+  Ingimar fer upp í framtíðarstofuna og sínir kennaranum lausnina, kennarin sagði að þetta var mjög sniðug lausn sem að Ingimar kom með og Ingimar sendi honum email með fileonum.
+
+  
 - **10:01**
    Valdimar er að missa vitið út af villu sem hann nær ekki að laga. Ingimar kláraði 3d prentið sitt.
 
@@ -123,10 +136,12 @@
    Villan sem Vélmennið er með er ekki en löguð og Valdimar er búin að missa vitið út af því.
 
 - **10:50**
-   Villan er löguð. Ingimar er búin að færa Kistu input í node-red á milli Valda og Marijonas. Marijonas var búin að gera kóða fyrir Kistuna en eyddi henni en þurfti að endur gera kóðan upp á nýtt.
+   Villan er löguð. Ingimar er búin að færa Kistu input í node-red á milli Valda og Marijonas. Marijonas var búin að gera kóða fyrir 
+   Kistuna en eyddi henni en þurfti að endur gera kóðan upp á nýtt.
 
 - **10:58**
-   Ingimar Fór að bora aftur.
+   Ingimar Fór að bora aftur svo að motorin getur hreif kistulokið.
 
 - **11:17**
    Kóðin virkar loksins
+   Ef að það fer eithvað að honum hratt þá hreifir hann hendina
