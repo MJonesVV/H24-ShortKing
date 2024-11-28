@@ -118,3 +118,6 @@
 
 - **10:01**
    Valdimar er að missa vitið út af villu sem hann nær ekki að laga. Ingimar kláraði 3d prentið sitt.
+
+- **10:35**
+   Villan sem Vélmennið er með er ekki en löguð og Valdimar er búin að missa vitið út af því.
