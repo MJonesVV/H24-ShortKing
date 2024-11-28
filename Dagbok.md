@@ -128,7 +128,6 @@
 - **9.53**
   Ingimar fer upp í framtíðarstofuna og sínir kennaranum lausnina, kennarin sagði að þetta var mjög sniðug lausn sem að Ingimar kom með og Ingimar sendi honum email með fileonum.
 
-  
 - **10:01**
    Valdimar er að missa vitið út af villu sem hann nær ekki að laga. Ingimar kláraði 3d prentið sitt.
 
@@ -145,3 +144,6 @@
 - **11:17**
    Kóðin virkar loksins
    Ef að það fer eithvað að honum hratt þá hreifir hann hendina
+
+- **11:48**
+   Marijonas finnst Malt og appelsín ekki gott. Annars breyttist ekkert mikilvægt.
