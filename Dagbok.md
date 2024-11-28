@@ -127,3 +127,6 @@
 
 - **10:58**
    Ingimar Fór að bora aftur.
+
+- **11:17**
+   Kóðin virkar loksins
