@@ -121,3 +121,9 @@
 
 - **10:35**
    Villan sem Vélmennið er með er ekki en löguð og Valdimar er búin að missa vitið út af því.
+
+- **10:50**
+   Villan er löguð. Ingimar er búin að færa Kistu input í node-red á milli Valda og Marijonas. Marijonas var búin að gera kóða fyrir Kistuna en eyddi henni en þurfti að endur gera kóðan upp á nýtt.
+
+- **10:58**
+   Ingimar Fór að bora aftur.
