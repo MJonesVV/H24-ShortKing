@@ -146,4 +146,4 @@
    Ef að það fer eithvað að honum hratt þá hreifir hann hendina
 
 - **11:48**
-   Marijonas finnst Malt og appelsín ekki gott. Annars breyttist ekkert mikilvægt.
+   Marijonas finnst Malt og appelsín ekki gott og er rosa þreyttur. Annars breyttist ekkert mikilvægt.
