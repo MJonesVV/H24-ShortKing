@@ -6,7 +6,7 @@
 Í dag byrjuðum við á hugmynda- og skipulagsvinnu. Ingimar stakk upp á hugmynd tengda hrekkjavöku, þar sem hann myndi bregða þeim sem væri hjá honum. Þrátt fyrir aðra hugmyndir hafi komið upp, var ákveðið að fara með þessa hugmynd.  
 
 - **Ingimar og Marijonas** unnu að því að setja saman allt sem þarf fyrir vélmennið.  
-- **Valdimar** annaðist söfnun á aukahlutum eins og rörum, kom með hugmyndir og skrifaði í dagbókina (*README*).  
+- **Valdimar** annaðist söfnun á aukahlutum eins og rörum, kom með hugmyndir og skrifaði í dagbókina.  
 
 ---
 
