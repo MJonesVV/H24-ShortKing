@@ -108,3 +108,13 @@
 
 - **15:54**
    Marijonas lagaði snúru tengingarnar.
+
+---
+## Dagsetning: 28:11:2024
+
+## Tímalína
+- **08:30**
+   Allir byrjuðu að gera það sem þeir ákvöðu að gera, Valdimar byrjaði að kóða með gögnin sem hann fær, Ingimar fór að 3d prenta eitthvað.
+
+- **10:01**
+   Valdimar er að missa vitið út af villu sem hann nær ekki að laga. Ingimar kláraði 3d prentið sitt.
