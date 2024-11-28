@@ -5,20 +5,20 @@
 ### Lýsing á deginum  
 Í dag byrjuðum við á hugmynda- og skipulagsvinnu. Ingimar stakk upp á hugmynd tengda hrekkjavöku, þar sem hann myndi bregða þeim sem væri hjá honum. Þrátt fyrir aðra hugmyndir hafi komið upp, var ákveðið að fara með þessa hugmynd.  
 
-- **Ingimar og Marijona** unnu að því að setja saman allt sem þarf fyrir vélmennið.  
+- **Ingimar og Marijonas** unnu að því að setja saman allt sem þarf fyrir vélmennið.  
 - **Valdimar** annaðist söfnun á aukahlutum eins og rörum, kom með hugmyndir og skrifaði í dagbókina (*README*).  
 
 ---
 
 ### Tímalína  
 - **14:29**:  
-   Ingimar og Marijona settu saman hendurnar á vélmenninu á meðan Valdimar skráði hvað var í gangi.  
+   Ingimar og Marijonas settu saman hendurnar á vélmenninu á meðan Valdimar skráði hvað var í gangi.  
 
 - **14:32**:  
    Ingimar hræddi hópinn með því að segja að eitthvað væri "tricky". Hann leysti þó vandamálið á 10 sekúndum.  
 
 - **14:38**:  
-   Ingimar reyndi að festa saman mótorinn og hendina, en það losnaði ítrekað. Marijona leysti þetta án vandamála.  
+   Ingimar reyndi að festa saman mótorinn og hendina, en það losnaði ítrekað. Marijonas leysti þetta án vandamála.  
 
 - **14:42**:  
    Ingimar tókst að festa mótorinn og hendina saman en þurfti að bæta við aukahlut sem tengdist rörum. Valdimar aðstoðaði við að taka rörið úr vélmenninu, bora í það og festa með skrúfu.  
@@ -49,7 +49,7 @@
    Hópurinn byrjaði á eigin verkefnum:  
    - **Ingimar** vann í *Blender* við að búa til kórónu fyrir beinagrindina.  
    - **Valdimar** fór að finna núllstöður fyrir hendurnar.  
-   - **Marijona** bætti hugmyndir hópsins og fiktaði í tveimur skynjurum.  
+   - **Marijonas** bætti hugmyndir hópsins og fiktaði í tveimur skynjurum.  
 
 - **08:50**:  
    Hægri handar mótorinn losnaði á annarri hliðinni, sem þýddi að Valdimar þurfti að finna núllstöðurnar aftur.  
@@ -80,7 +80,7 @@
 
 ### Tímalína  
 - **13:45**
-   Ingimar kláraði að setja upp Rasberry Pi og Marijona er í vanda með sensorana.
+   Ingimar kláraði að setja upp Rasberry Pi og Marijonas er í vanda með sensorana.
    
 - **14:12**
    Valdimar sýndi Ingimari hvernig á að flokka hluti í Node-Red dashboard og er búin að nefna nokkrum sinnum að nota timer fyrir sensorana varðandi þess að við viljum að ef einhver kemur of nálægt og byrtist alt í einu þá á hann að vera hræddur en ekki þegar hann er búin að sjá hann. Þó að við þurfum ekki að laga það sem er nú þegar komið þar sem ef hann á að vera hræddur þá er skrifað í kóðanum að hann er hræddur svo engin annar kóði fer í gang.
@@ -92,7 +92,7 @@
    Valdimar og Ingimar eru byrjaðir að senda gögn á milli hvor annara.
 
 - **14:56**
-   Hægri höndin skemmdist aftur aftur Valdimar þarf að laga hana aftur :(.
+   Hægri höndin skemmdist aftur aftur Valdimar þarf að laga hana aftur. :(
 
 - **15:06**
    Valdimar lagaði hendina.
