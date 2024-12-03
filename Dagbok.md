@@ -73,7 +73,7 @@
   ![](/myndir/vinna/IMG_6960.jpeg)
 - **10:15**
    Mótorinn virkar og Validmar þarf að finna núllstöðu mótorinn aftur.
-   ![](/myndir/vinna/IMG_6961.jpeg)
+   
 - **10:50**
    Ingimar fer að gera Rasberrypi á meðan Valdimar fer og klárar að finna núllstöðu mótorsins.
 
@@ -98,7 +98,7 @@
 
 - **14:56**
    Hægri höndin skemmdist aftur aftur Valdimar þarf að laga hana aftur. :(
-
+   ![](/myndir/vinna/IMG_6961.jpeg)
 - **15:06**
    Valdimar lagaði hendina.
 
@@ -110,7 +110,7 @@
 
 - **15:51**
    Vandamál kom þegar Marijonas prófaði kóðan.
-
+  ![](/myndir/vinna/IMG_6987.jpeg)
 - **15:54**
    Marijonas lagaði snúru tengingarnar.
 
