@@ -5,7 +5,7 @@
 ##### Vélmenni esp
 48 = Lóðrétt servo hreyfing  ()  
 47 = Kjálki servo  (MIN=93, MAX=140)  
-45 = Lárétt servo hreyfing  (MIN=0, MAX=185)  
+45 = Lárétt servo hreyfing  (MIN=5, MAX=120)  
 40 = Hægri hönd servo  (MIN=12, MAX=25)  ***BREYTIST
 39 = Vinstri hönd servo  (MIN=180, MAX=130)  
 38 = Speaker    
