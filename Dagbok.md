@@ -146,7 +146,7 @@
 
 - **10:58**
    Ingimar Fór að bora aftur svo að motorin getur hreif kistulokið.
-
+  ![](/myndir/vinna/IMG_7023.jpeg)
 - **11:17**
    Kóðin virkar loksins
    Ef að það fer eithvað að honum hratt þá hreifir hann hendina
