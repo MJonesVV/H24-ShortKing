@@ -171,3 +171,6 @@
 
   - **13:18**
      Marijonas rakst óvart aftur í kórónuna en skemmdi hana ekki í þetta skipti
+
+  - **14:22**
+     Valdimar fékk cóðan sinn til þess að virka og Ingimar er í vanda varðandi timer.
