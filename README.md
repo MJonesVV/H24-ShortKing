@@ -1,6 +1,8 @@
-# VESM2V-05CU
-Verkefni 5
-(Setja hérna uppl um vélmennið, hvað hann gerir, myndir af t.d. Thonny kóða, NodeRed flow og dashboard, vélmenni og fleira)
+# Short King
+#### eftir Ingimar, Marijonas og Valdimar  
+
+
+
 
 ## Sensor ESP  
 Notar 3 Ultrasonic Sensor hc-sr04 til að sjá ef það er eitthvað nálægt vélmennið, sendir json skrá til vélmenna espið sem munn gera hluti (fer eftir hvað sensors eru að sjá), hefur líka Kistu servo sem opnar og lokar Kistu (fær skilaboð frá NodeRed hvort það á að opna eða loka)
