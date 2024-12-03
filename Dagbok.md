@@ -147,3 +147,21 @@
 
 - **11:48**
    Marijonas finnst Malt og appelsín ekki gott og er rosa þreyttur. Annars breyttist ekkert mikilvægt.
+
+  ---
+  ## Dagsetning 3.12.2024
+
+  ##Tímalína
+  - **12:56**
+     Valdimar kveikti á vélmenninu og kórónan flaug af og skemdist.
+
+  - **12:59**
+     Ingimar Lagaði kórónuna.
+
+  - **13:05**
+     Marijonas rakst í kórónuna og skemmdi kórónuna líka.
+
+  - **13:08**
+     Ingimar lagaði kórónuna aftur.
+
+  - **(setja tíma)**
