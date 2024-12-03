@@ -153,6 +153,8 @@
 
 - **11:48**
    Marijonas finnst Malt og appelsín ekki gott og er rosa þreyttur. Annars breyttist ekkert mikilvægt.
+  ![](/myndir/vinna/IMG_7025.jpeg)
+
 
   ---
   ## Dagsetning 3.12.2024
