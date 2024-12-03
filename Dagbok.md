@@ -20,7 +20,8 @@
    Ingimar hræddi hópinn með því að segja að eitthvað væri "tricky". Hann leysti þó vandamálið á 10 sekúndum.  
 
 - **14:38**:  
-   Ingimar reyndi að festa saman mótorinn og hendina, en það losnaði ítrekað. Marijonas leysti þetta án vandamála.  
+   Ingimar reyndi að festa saman mótorinn og hendina, en það losnaði ítrekað. Marijonas leysti þetta án vandamála.
+  ![](/myndir/vinna/IMG_6945.jpeg)
 
 - **14:42**:  
    Ingimar tókst að festa mótorinn og hendina saman en þurfti að bæta við aukahlut sem tengdist rörum. Valdimar aðstoðaði við að taka rörið úr vélmenninu, bora í það og festa með skrúfu.  
