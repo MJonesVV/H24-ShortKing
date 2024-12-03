@@ -70,7 +70,7 @@
 
 - **10:09**
    Við tókum nýjan mótor... við vonum að hann virkar. **ÞETTA ER FIMMTI MÓTORINN OKKAR**.
-
+  ![](/myndir/vinna/IMG_6960.jpeg)
 - **10:15**
    Mótorinn virkar og Validmar þarf að finna núllstöðu mótorinn aftur.
 
