@@ -164,4 +164,5 @@
   - **13:08**
      Ingimar lagaði kórónuna aftur.
 
-  - **(setja tíma)**
+  - **13:18**
+     Marijonas rakst óvart aftur í kórónuna en skemmdi hana ekki í þetta skipti
