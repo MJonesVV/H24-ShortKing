@@ -42,6 +42,7 @@
    Hægri höndin er en ekki virk
 - **15:54**:  
    Hendurnar voru kláraðar. Næstu skref eru að vinna með **Node-Red** og hefðbundinn kóða.  
+   ![](/myndir/vinna/IMG_6949.jpeg)
 
 ---
 
