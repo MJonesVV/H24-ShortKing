@@ -11,7 +11,12 @@
 38 = Speaker    
 [35, 36, 37] = Augu    
 
-### Sensor esp
+##### Sensor esp
+
+Echo(35) Trigger(36) = Sensor left
+Echo(18) Trigger(17) = Sensor middle
+Echo(16) Trigger(15) = Sensor right
+10 = Kista Servo 
 
 
 
