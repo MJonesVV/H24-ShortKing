@@ -29,16 +29,16 @@ Nota microphone ReSpeaker 2-Mics Pi HAT til að skynja ef eitthver er að hræð
 
 # Hlutir eftir að gera
 
-hreifa haus eftir location
-fá jumscae ef location of nálægt hægt
-beinagrindin hræðist ef location of nálægt hratt
+## hreifa haus eftir location
+## fá jumscae ef location of nálægt hægt
+## beinagrindin hræðist ef location of nálægt hratt
 
-gera kistu tilbuna til að virka
-animatata kistuna
-beinagrind horfir á kistu ef hun kveikist
-ef beinagrindin horfir á kistuna verða allir cencors inactive
+## gera kistu tilbuna til að virka
+## animatata kistuna
+## beinagrind horfir á kistu ef hun kveikist
+## ef beinagrindin horfir á kistuna verða allir cencors inactive
 
-augun blikka ef jumscare
-stjorna lit af augum
-stjorna blikk speed af augum
-stjorna kversu hratt hals hreifisgt
+## augun blikka ef jumscare
+## stjorna lit af augum
+## stjorna blikk speed af augum
+## stjorna kversu hratt hals hreifisgt
