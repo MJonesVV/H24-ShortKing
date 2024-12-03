@@ -12,7 +12,9 @@
 
 ### Tímalína  
 - **14:29**:  
-   Ingimar og Marijonas settu saman hendurnar á vélmenninu á meðan Valdimar skráði hvað var í gangi.  
+   Ingimar og Marijonas settu saman hendurnar á vélmenninu á meðan Valdimar skráði hvað var í gangi.
+
+  ![](/myndir/vinna/IMG_6944.jpeg)
 
 - **14:32**:  
    Ingimar hræddi hópinn með því að segja að eitthvað væri "tricky". Hann leysti þó vandamálið á 10 sekúndum.  
