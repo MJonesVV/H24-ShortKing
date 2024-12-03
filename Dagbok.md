@@ -53,7 +53,8 @@
    Hópurinn byrjaði á eigin verkefnum:  
    - **Ingimar** vann í *Blender* við að búa til kórónu fyrir beinagrindina.  
    - **Valdimar** fór að finna núllstöður fyrir hendurnar.  
-   - **Marijonas** bætti hugmyndir hópsins og fiktaði í tveimur skynjurum.  
+   - **Marijonas** bætti hugmyndir hópsins og fiktaði í tveimur skynjurum.
+     ![](/myndir/vinna/IMG_6950.jpeg)
 
 - **08:50**:  
    Hægri handar mótorinn losnaði á annarri hliðinni, sem þýddi að Valdimar þurfti að finna núllstöðurnar aftur.  
