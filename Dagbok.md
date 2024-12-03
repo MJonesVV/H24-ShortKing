@@ -73,7 +73,7 @@
   ![](/myndir/vinna/IMG_6960.jpeg)
 - **10:15**
    Mótorinn virkar og Validmar þarf að finna núllstöðu mótorinn aftur.
-
+   ![](/myndir/vinna/IMG_6961.jpeg)
 - **10:50**
    Ingimar fer að gera Rasberrypi á meðan Valdimar fer og klárar að finna núllstöðu mótorsins.
 
