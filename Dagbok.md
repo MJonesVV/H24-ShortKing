@@ -159,7 +159,7 @@
 ---
 ## Dagsetning 3.12.2024
 
-##Tímalína
+## Tímalína
 - **12:56**
   Valdimar kveikti á vélmenninu og kórónan flaug af og skemdist.
 
