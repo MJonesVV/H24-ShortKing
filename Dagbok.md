@@ -120,7 +120,8 @@
 ## Tímalína
 - **08:30**
    Allir byrjuðu að gera það sem þeir ákvöðu að gera, Valdimar byrjaði að kóða með gögnin sem hann fær, Ingimar fór að 3d prenta         eitthvað.
-  
+  ![](/myndir/vinna/IMG_6991.jpeg)
+
 - **8.56**
   Við fundum út að við áttum að gera animated props, sem við vissum ekki hvað var.
 
