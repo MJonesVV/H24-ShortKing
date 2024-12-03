@@ -34,7 +34,7 @@
 
 - **15:38**:  
    **Fjórði mótorinn** virkaði loks eftir 30 mínútur af prófunum og lagfæringum.  
-
+   ![](/myndir/vinna/IMG_6948.jpeg)
 - **15:48**:  
    Ingimar festi hendina við rörið, en hún reyndist of lítil til að festast almennilega.
 
