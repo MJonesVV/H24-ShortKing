@@ -180,7 +180,7 @@
 
 - **15:20**
   Ingimar límdi kórónuna við hausinn. Valdimar "kláraði" kóðan sem hann var að vinna í, þarf bara að bæta hvort hann sé hræddur, hvort hann hræðir aðra eða hvort hann horfir á kistu og þarf að setja hljóð. Þarf líka að stilla lit á augunum. Marijonas heldur á fram að kóða kistuna.
-
+  ![](myndir/vinna/IMG_7045.jpeg)
 
 ---
 ## Dagsetning 5.12.2024
