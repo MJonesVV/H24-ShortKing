@@ -188,4 +188,8 @@ while True:
 ![image](https://github.com/user-attachments/assets/8d4094f1-b330-4f18-a541-a8c080ad5981)
 
 
+## Blender Kóróna
+![Skjámynd 2024-12-05 093530](https://github.com/user-attachments/assets/9e52fd28-ce83-4dc6-b507-ccb2b9c4ee9f)
 
+## Blender Kista
+![Skjámynd 2024-12-05 093518](https://github.com/user-attachments/assets/4793fd09-0602-4759-8b19-40ed2ef38aef)
