@@ -180,3 +180,17 @@
 
 - **15:20**
   Ingimar límdi kórónuna við hausinn. Valdimar "kláraði" kóðan sem hann var að vinna í, þarf bara að bæta hvort hann sé hræddur, hvort hann hræðir aðra eða hvort hann horfir á kistu og þarf að setja hljóð. Þarf líka að stilla lit á augunum. Marijonas heldur á fram að kóða kistuna.
+
+
+---
+## Dagsetning 5.12.2024
+
+## Tímalína
+- **08:56**
+   Vélmennið hætti alt í einu að virka.
+
+- **09:02**
+   Valdimar lagaði vélmennið þar sem ein snúra losnaði þegar Ingimar togaði fasst í aðrar snúrur til þess að losa einn mótor sem hann þarf að nota.
+
+- **09:04**
+   Marijonas er að skrifa í skýrslu.
