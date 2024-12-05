@@ -55,6 +55,7 @@
    - **Valdimar** fór að finna núllstöður fyrir hendurnar.  
    - **Marijonas** bætti hugmyndir hópsins og fiktaði í tveimur skynjurum.
      ![](/myndir/vinna/IMG_6950.jpeg)
+     ![Skjámynd 2024-12-05 093530](https://github.com/user-attachments/assets/9e52fd28-ce83-4dc6-b507-ccb2b9c4ee9f)
 
 - **08:50**:  
    Hægri handar mótorinn losnaði á annarri hliðinni, sem þýddi að Valdimar þurfti að finna núllstöðurnar aftur.  
@@ -119,7 +120,7 @@
 
 ## Tímalína
 - **08:30**
-   Allir byrjuðu að gera það sem þeir ákvöðu að gera, Valdimar byrjaði að kóða með gögnin sem hann fær, Ingimar fór að 3d prenta         eitthvað.
+   Allir byrjuðu að gera það sem þeir ákvöðu að gera, Valdimar byrjaði að kóða með gögnin sem hann fær, Ingimar fór að 3d prenta eitthvað.
   ![](/myndir/vinna/IMG_6991.jpeg)
 
 - **8.56**
@@ -130,6 +131,7 @@
 
 - **9.45**
   Ingimar lenti í vanadamáli hverning maður setur kistuna saman og Marijonas fann leið sem midndi virka
+  ![Skjámynd 2024-12-05 093518](https://github.com/user-attachments/assets/79c3fc99-f84b-4bb7-ab16-06565b5a5209)
 
 - **9.53**
   Ingimar fer upp í framtíðarstofuna og sínir kennaranum lausnina, kennarin sagði að þetta var mjög sniðug lausn sem að Ingimar kom með og Ingimar sendi honum email með fileonum.
