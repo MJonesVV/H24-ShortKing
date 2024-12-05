@@ -186,3 +186,6 @@ while True:
 
 ## Blender Kista
 ![Skjámynd 2024-12-05 093518](https://github.com/user-attachments/assets/4793fd09-0602-4759-8b19-40ed2ef38aef)
+
+## Dashboard
+![Skjámynd 2024-12-05 112553](https://github.com/user-attachments/assets/76d98e31-c5fa-46ce-989c-139cb3687994)
