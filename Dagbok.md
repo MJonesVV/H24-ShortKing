@@ -194,3 +194,15 @@
 
 - **09:04**
    Marijonas er að skrifa í skýrslu.
+
+- **09:05**
+   Við fengum kistuna en hún var aðeins minni en við héldum og við þurftum að sanda og líma mikið til að láta það virka
+
+- **09:56**
+  Kistan virkar og við stækuðum platformið svo við gátum límt kistuna við það
+
+- **10:42**
+  Við erum að lenda í vandamáli með traking sistemið og Valdimar er að brjálast
+
+  
+- 
