@@ -185,6 +185,7 @@ while True:
 ![image](https://github.com/user-attachments/assets/2dc23e35-67e7-4503-8b82-5891b37d700f)  
 
 ## Hvering Sena virkar
-![image](https://github.com/user-attachments/assets/5e8c1014-a220-40a2-a771-d5833bd878ba)
+![image](https://github.com/user-attachments/assets/8d4094f1-b330-4f18-a541-a8c080ad5981)
+
 
 
