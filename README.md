@@ -1,11 +1,12 @@
 # Short King
-#### eftir Ingimar, Marijonas og Valdimar  
+#### Eftir Ingimar, Marijonas og Valdimar  
 
-
-
+## Stutt lýsing
+Við hönnuðum vélmenni (animatronic) sem athugar ef eitthvað er nálægt or reynir svo að hræða hlutinn/manneskju sem er fyrir framan það. Það hefur kistu sem er hægt að opna með notkun NodeRed dashboard, ef eitthver opnar hana, þá munn athyglið vélmennið vera á það, sem leyfir eitthvern að koma nálægt vélmennið og hræða það
 
 ## Sensor ESP  
 Notar 3 Ultrasonic Sensor hc-sr04 til að sjá ef það er eitthvað nálægt vélmennið, sendir json skrá til vélmenna espið sem munn gera hluti (fer eftir hvað sensors eru að sjá), hefur líka Kistu servo sem opnar og lokar Kistu (fær skilaboð frá NodeRed hvort það á að opna eða loka)
+
 <details>
 <summary>Kóði</summary>
 
@@ -168,7 +169,17 @@ while True:
     senda_mqtt_skilabod(mqtt_client, TOPIC, json.dumps(message).encode())
     sleep_ms(100)  
 ```
-</details> 
+</details>   
+
+## Íhlutalisti
+| Hlutur   | Magn    |
+| -------- | ------- |
+| Ultrasonic Sensor hc-sr04  | 3   |
+| Servo | 5     |
+| Micro Servo | 1     |
+| ESP32    |  2   |
+| Hátalari    |  1   |
+| DFplayer mini    |  1  |
 
 ## Tengingar  
 ![image](https://github.com/user-attachments/assets/2dc23e35-67e7-4503-8b82-5891b37d700f)  
