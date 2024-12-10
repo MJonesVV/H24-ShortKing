@@ -119,7 +119,7 @@ def main(sensor_left, sensor_mid, sensor_right):
         
         #hvort kista á að opnast eða lokast
         kista_stada = not kista_stada
-        
+        kista_hinn = True
         #opnar kistuna
         if kista_stada:
             for i in range(min_kista,max_kista):
@@ -134,13 +134,21 @@ def main(sensor_left, sensor_mid, sensor_right):
     
     #annars er hún lokuð
     else :
+        kista_hinn = False
         kista_servo.write_angle(min_kista)
       
+      
+    #ef kistan er kveikt, allt annað er slökkt
+    if kista_hinn:
+        which_sensor = False
+        in_vision = False
+        scare = False
+
     #skilur til baka í dict það sem vélmenni á að sér og hvað á að gera
     return {"sensor":which_sensor,
             "scare":scare,
             "in_vision": in_vision,
-            "kista": kista}
+            "kista": kista_hinn}
 
 #fall til að senda skilaboð
 def senda_mqtt_skilabod(mqtt_client_inn, topic, skilabod):
@@ -148,6 +156,7 @@ def senda_mqtt_skilabod(mqtt_client_inn, topic, skilabod):
     
 #loop til að esp virkar endalaust      
 while True:
+    #try og except til þess að kóðinn slökkvar aldrei
     try:
         #skilaboð sem esp munn senda til hitt
         message = {}
@@ -160,7 +169,7 @@ while True:
         senda_mqtt_skilabod(mqtt_client, TOPIC, json.dumps(message).encode())
     except:
         pass
-    sleep_ms(100)
+    sleep_ms(200)
 ```
 </details>   
 
