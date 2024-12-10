@@ -174,7 +174,7 @@ while True:
 </details>   
 
 ## Vélmenna ESP  
-Notar 4 mótara og 1 micro mótor. 2 led peru augu. Kóðin tekur við skilaboð frá Sensor esp til þess að geta horft í rétta átt að öðrum sem koma of nálægt. Augun taka við skilaboðum frá Node-Red til þess að vita hvaða lit augun eiga að vera. Þegar Node-Red sendir skilaboð til Sensor ESP er líka sent til Vélmenna ESP til þess að segja vékmenninu að kistan sé opin, þegar kistan er opin á vélmennið að horfa á það með glóandi augu þar til notandin slekkur á kistunni.
+Notar 4 mótara og 1 micro mótor. 2 led peru augu. Kóðin tekur við skilaboð frá Sensor esp til þess að geta horft í rétta átt að öðrum sem koma of nálægt. Augun taka við skilaboðum frá Node-Red til þess að vita hvaða lit augun eiga að vera. Þegar Node-Red sendir skilaboð til Sensor ESP er líka sent til Vélmenna ESP til þess að segja vékmenninu að kistan sé opin, þegar kistan er opin á vélmennið að horfa á það með glóandi augu þar til notandin slekkur á kistunni. Í myndbandinu er ekki sínt þegar Node-Red breytir lit á augunum en það virkar.
 
 <details>
 <summary>Kóði</summary>
