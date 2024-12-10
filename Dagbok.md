@@ -204,8 +204,10 @@
 - **10:42**
   Við erum að lenda í vandamáli með traking sistemið og Valdimar er að brjálast
 
-  
+- **11:43**
+  Valdimar Lagaði villuna.
 
+  
 
 ---
 ## Dagsetning 10.12.2024
@@ -213,7 +215,16 @@
 ## Tímalína
 
 - **13:00**
-   Tímin byrjar vel, nema ekki, kistan virkar ekki lengur og við höfum bara hálfan tíma til að klára vélmennið (og líka Ingimar verður ekki í seinni helming út af próf í íslensku
+   Tímin byrjar vel, nema ekki, kistan virkar ekki lengur og við höfum bara hálfan tíma til að klára vélmennið (og líka Ingimar verður ekki í seinni helming út af próf í íslensku)
 
 - **13:55**
    Ingimar nær að laga kistuna en LED perur vilja ekki virka hjá Valdimar
+
+- **14:25**
+   Valdimar Lagaði perurnar, Lagaði traking aftur og margar aðrar villur. Marijonas lagaði villu sem var í seinasta tíma. Ingimar þurfti að fara svo hann gerði ekki mikið eftir að hafa lagað kistuna.
+
+- **14:50**
+   Við síndum verkefnið okkar.
+
+- **15:35**
+   Við kláruðum allt auka sem við áttum eftir varðandi skýrslur og f.l.r
