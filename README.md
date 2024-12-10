@@ -520,4 +520,8 @@ except KeyboardInterrupt:
 ![Skjámynd 2024-12-05 093518](https://github.com/user-attachments/assets/4793fd09-0602-4759-8b19-40ed2ef38aef)
 
 ## Dashboard
-![Skjámynd 2024-12-05 112553](https://github.com/user-attachments/assets/76d98e31-c5fa-46ce-989c-139cb3687994)
+![image](https://github.com/user-attachments/assets/1a527e1f-dce5-473a-aa72-67d31bbd85bc)
+## Flow
+![image](https://github.com/user-attachments/assets/6eb97e3a-bc80-4d8a-9db0-6e81b50ab248)
+
+
