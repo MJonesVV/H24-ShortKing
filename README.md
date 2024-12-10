@@ -1,4 +1,4 @@
-# Short King Lebron
+# The Short King Lebron
 #### Eftir Ingimar, Marijonas og Valdimar  
 
 ## Stutt lýsing
