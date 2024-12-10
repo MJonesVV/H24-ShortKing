@@ -205,4 +205,15 @@
   Við erum að lenda í vandamáli með traking sistemið og Valdimar er að brjálast
 
   
-- 
+
+
+---
+## Dagsetning 10.12.2024
+
+## Tímalína
+
+- **13:00**
+   Tímin byrjar vel, nema ekki, kistan virkar ekki lengur og við höfum bara hálfan tíma til að klára vélmennið (og líka Ingimar verður ekki í seinni helming út af próf í íslensku
+
+- **13:55**
+   Ingimar nær að laga kistuna en LED perur vilja ekki virka hjá Valdimar
