@@ -524,6 +524,10 @@ except KeyboardInterrupt:
 ## Blender Kista
 ![Skjámynd 2024-12-05 093518](https://github.com/user-attachments/assets/4793fd09-0602-4759-8b19-40ed2ef38aef)
 
+
+# NodeRed
+## JSON
+[JSON](/NodeRed.json)
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/1a527e1f-dce5-473a-aa72-67d31bbd85bc)
 ## Flow
