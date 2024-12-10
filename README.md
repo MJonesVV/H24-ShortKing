@@ -506,6 +506,11 @@ except KeyboardInterrupt:
 | Hátalari    |  1   |
 | DFplayer mini    |  1  |
 
+## Myndbond
+[![Virkni](https://img.youtube.com/vi/FsUnuj2XhRw/0.jpg)](https://www.youtube.com/watch?v=FsUnuj2XhRw)
+
+[![Kista Virkni](https://img.youtube.com/vi/vf3eeeGuTSo/0.jpg)](https://www.youtube.com/watch?v=vf3eeeGuTSo)
+
 ## Tengingar  
 ![image](https://github.com/user-attachments/assets/2dc23e35-67e7-4503-8b82-5891b37d700f)  
 
